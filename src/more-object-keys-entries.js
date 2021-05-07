@@ -14,3 +14,12 @@ export function updateNumbers(obj) {
   });
   return newArray;
 }
+
+export function totalCharacters(arr) {
+}
+
+export function hasChildrenEntries(arr, character) {
+}
+
+export function sortByChildren(arr) {
+}
